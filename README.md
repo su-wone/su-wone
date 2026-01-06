@@ -17,7 +17,7 @@
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me 🤝 </h3> <p align="center"> <div align="center" class="icons-social" style="margin-left: 10px;"> <!-- 필요에 따라 href 수정해서 사용 --> <a style="margin-left: 10px;" target="_blank" href="https://github.com/su-wone"> <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"> </a> <!-- LinkedIn / Blog / Instagram / X 등 있으면 아래 주석 풀고 링크만 바꾸면 됨 --> <!-- <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/your-link"> <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"> </a> <a style="margin-left: 10px;" target="_blank" href="https://velog.io/@your-id"> <img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"> </a> --> </div> </p>
 Blog posts
 <!-- BLOG-POST-LIST:START -->
-(Velog나 블로그 글 자동으로 넣고 싶으면 나중에 GitHub Actions로 여기를 자동 업데이트 할 수 있어)
+
 
 <!-- BLOG-POST-LIST:END -->
 Credit: inspired by Saurabh Chavan
