@@ -1,67 +1,24 @@
-<h1 align="center">Hi 👋, I'm SuWon
-Saurabh</a></h1>
-<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
+<h1 align="center">Hi 👋, I'm SuWon Kang</h1> <h3 align="center">A passionate Software Developer from Seoul, South Korea 🇰🇷</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=su-wone&label=Profile%20views&color=0e75b6&style=flat" alt="su-wone" /> </p> <a target="_blank" align="center"> <img align="right" height="300" width="400" alt="coding gif" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> </a>
+🔭 I’m currently working on projects about web development, automation, and AI/ML.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+🌱 I’m learning Next.js, GitHub Actions, and AI for plant & sleep research.
 
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
+🤝 I’m open to collaboration on web apps, data/AI side projects, and developer tooling.
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+📝 I write tech notes and posts on Velog / Notion.
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+💬 Ask me about GitHub workflows, deployment (Vercel), and JS/TS.
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+📫 How to reach me: (이메일 적고 싶으면 여기 넣으면 돼)
 
-- 🤝 I’m available for freelancing.
+📄 Check out my projects on GitHub: <a href="https://github.com/su-wone?tab=repositories" target="blank">Repositories</a>
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
-
-</p>
-
-### Blogs posts
-
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me 🤝 </h3> <p align="center"> <div align="center" class="icons-social" style="margin-left: 10px;"> <!-- 필요에 따라 href 수정해서 사용 --> <a style="margin-left: 10px;" target="_blank" href="https://github.com/su-wone"> <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"> </a> <!-- LinkedIn / Blog / Instagram / X 등 있으면 아래 주석 풀고 링크만 바꾸면 됨 --> <!-- <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/your-link"> <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"> </a> <a style="margin-left: 10px;" target="_blank" href="https://velog.io/@your-id"> <img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"> </a> --> </div> </p>
+Blog posts
 <!-- BLOG-POST-LIST:START -->
+(Velog나 블로그 글 자동으로 넣고 싶으면 나중에 GitHub Actions로 여기를 자동 업데이트 할 수 있어)
 
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
 <!-- BLOG-POST-LIST:END -->
-
----
-
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: 08/08/2022
+Credit: inspired by Saurabh Chavan
+Last Edited on: 07/01/2026
