@@ -9,7 +9,7 @@
 
 💬 Ask me about GitHub workflows, deployment (Vercel), and JS/TS.
 
-📫 How to reach me: (이메일 적고 싶으면 여기 넣으면 돼)
+📫 How to reach me: rkdtndnjs02@naver.com
 
 📄 Check out my projects on GitHub: <a href="https://github.com/su-wone?tab=repositories" target="blank">Repositories</a>
 
