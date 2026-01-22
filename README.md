@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SuWon Kang</h1> <h3 align="center">A passionate Software Developer from Seoul, South Korea 🇰🇷</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=su-wone&label=Profile%20views&color=0e75b6&style=flat" alt="su-wone" /> </p> <a target="_blank" align="center"> <img align="right" height="300" width="400" alt="coding gif" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> </a>
+<h1 align="center">Hi 👋, I'm SuWon Kang</h1> <h3 align="center">A passionate Software Developer from Seoul, South Korea 🇰🇷</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=su-wone&label=Profile%20views&color=0e75b6&style=flat" alt="su-wone" /> </p>
 🔭 I’m currently working on projects about web development, automation, and AI/ML.
 
 🌱 I’m learning Next.js, GitHub Actions, and AI for plant & sleep research.
