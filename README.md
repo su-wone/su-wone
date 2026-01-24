@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SuWon Kang</h1> <h3 align="center">A passionate Software Developer from Seoul, South Korea 🇰🇷</h3> <p align="left">
-![header](https://capsule-render.vercel.app/api?type=${배경타입}&color=auto&height=${높이}&section=header&text=${텍스트}&fontSize=${글자크기}&animation=${텍스트 효과})
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=원하는문구&fontSize=90)
   🔭 I’m currently working on projects about web development, automation, and AI/ML.
 
 🌱 I’m learning Next.js, GitHub Actions, and AI for plant & sleep research.
