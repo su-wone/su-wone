@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm SuWon Kang</h1> <h3 align="center">A passionate Software Developer from Seoul, South Korea 🇰🇷</h3> <p align="left">
-🔭 I’m currently working on projects about web development, automation, and AI/ML.
+https://capsule-render.vercel.app/api?
+  🔭 I’m currently working on projects about web development, automation, and AI/ML.
 
 🌱 I’m learning Next.js, GitHub Actions, and AI for plant & sleep research.
 
