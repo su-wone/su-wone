@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=원하는문구&fontSize=90)
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Welcome%20to%20My%20GitHub&fontSize=70)
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Hello%20i'm Suwon&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Hello%20I'm%20Suwon&fontSize=50&animation=fadeIn)
 
 <h1 align="center">Hi 👋, I'm SuWon Kang</h1> <h3 align="center">A passionate Software Developer from Seoul, South Korea 🇰🇷</h3> <p align="left">
 
