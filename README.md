@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=원하는문구&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Welcome%20to%20My%20GitHub&fontSize=70)
 
 <h1 align="center">Hi 👋, I'm SuWon Kang</h1> <h3 align="center">A passionate Software Developer from Seoul, South Korea 🇰🇷</h3> <p align="left">
 
